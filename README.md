@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./hero.png" width="100%" alt="Roshan Gowda J — Building Intelligence for What's Next" />
 </p>
 
@@ -7,22 +7,28 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_INSTAGRAM_URL">Instagram</a> ·
-  <a href="YOUR_WEBSITE_URL">Website</a>
+  I turn ambitious ideas into intelligent products that solve real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-gowda/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/roshan.gowda1?igsh=MXd1ZzhzcTdodDl0Yw==">Instagram</a> ·
+  <a href="https://roshan-gowda.vercel.app/">Website</a>
 </p>
 
 ---
 
 ## About
 
-I'm Roshan Gowda J — a computer science engineer, AI builder, and cadet passionate about turning ambitious ideas into useful technology.
+I'm **Roshan Gowda J** — a computer science engineer, AI builder, and an individual passionate about turning ambitious ideas into useful technology.
 
 I enjoy exploring AI agents, developing software, and building products that solve real-world problems.
 
+---
+
 ## Toolbox
 
-### AI Agents
+<h3 align="center">AI Agents</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -30,7 +36,7 @@ I enjoy exploring AI agents, developing software, and building products that sol
   <img src="https://img.shields.io/badge/MCP-252525?style=for-the-badge" alt="MCP" />
 </p>
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,html,postgres,supabase,vercel&theme=dark" alt="Python, C, C++, TypeScript, HTML, PostgreSQL, Supabase and Vercel" />
@@ -39,7 +45,7 @@ I enjoy exploring AI agents, developing software, and building products that sol
 ---
 
 <p align="center">
-  <b>THE FUTURE ISN'T SOMETHING WE WAIT FOR.</b>
+  <strong>THE FUTURE ISN'T SOMETHING WE WAIT FOR.</strong>
   <br />
-  <b>IT'S SOMETHING WE BUILD.</b>
+  <strong>IT'S SOMETHING WE BUILD.</strong>
 </p>
