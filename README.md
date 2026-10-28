@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>BUILDING AI SYSTEMS · CS ENGINEERING · CADET</i>
+  <i>AGENTIC AI · CS ENGINEER · SOLVING PROBLEMS</i>
 </p>
 
 <p align="center">
